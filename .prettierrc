@@ -1,10 +1,10 @@
 {
-    "overrides": [
-        {
-            "files": "**/*.{hbs}",
-            "options": {
-                "parser": "glimmer"
-            }
-        }
-    ]
+  "overrides": [
+    {
+      "files": "**/*.{hbs}",
+      "options": {
+        "parser": "glimmer"
+      }
+    }
+  ]
 }
